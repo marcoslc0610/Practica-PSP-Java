@@ -26,8 +26,9 @@ Para garantizar la robustez de la aplicación frente a errores del usuario en la
 ## 5. Capturas de Ejecución
 
 ### Menú Principal y Listado de Productos
-![Menu Principal](<img width="279" height="231" alt="Captura de pantalla 2026-09-30 202231" src="https://github.com/user-attachments/assets/4f761dfc-c099-4776-ba37-93a7eb0c3c89" />
-)
+![Menu Principal]
+<img width="279" height="231" alt="Captura de pantalla 2026-09-30 202231" src="https://github.com/user-attachments/assets/f06c7c02-6d90-423b-a8bb-90913e9828d1" />
+
 
 ### Manejo de Excepciones (Error por entrada no numérica)
 ![Excepcion]()

@@ -23,15 +23,14 @@ Esta opción se ha integrado de forma totalmente coherente con el menú principa
 
 ## 4. Manejo de Excepciones
 Para garantizar la robustez de la aplicación frente a errores del usuario en la consola, se han implementado bloques `try-catch` específicos para la captura de excepciones como `NumberFormatException` (evitando que el programa falle si se introducen letras en lugar de números en los menús) y controles de referencias nulas (`NullPointerException`).
+
 ## 5. Capturas de Ejecución
 
 ### Menú Principal y Listado de Productos
-![Menu Principal]
-<img width="279" height="231" alt="Captura de pantalla 2026-09-30 202231" src="https://github.com/user-attachments/assets/f06c7c02-6d90-423b-a8bb-90913e9828d1" />
+<img width="279" height="231" alt="Menu Principal" src="https://github.com/user-attachments/assets/f06c7c02-6d90-423b-a8bb-90913e9828d1" />
 
+### Manejo de Excepciones
+<img width="377" height="490" alt="Manejo de Excepciones" src="https://github.com/user-attachments/assets/73ee5c13-ee76-40b8-b248-feb0c64a200b" />
 
-### Manejo de Excepciones (Error por entrada no numérica)
-![Excepcion]()
-
-### Estadísticas de la Tienda (Extra implementado)
-![Estadisticas]()
+### Estadísticas de la Tienda
+<img width="377" height="348" alt="Estadísticas de la Tienda" src="https://github.com/user-attachments/assets/089815bf-b948-4949-9168-3e2e13f91097" />

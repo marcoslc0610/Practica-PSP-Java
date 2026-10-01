@@ -1,6 +1,4 @@
 # Practica-PSP-Java
-# Práctica Final - Programación (Java)
-
 ## 1. Descripción del Proyecto
 Aplicación de consola en Java desarrollada bajo el paradigma de la Programación Orientada a Objetos (POO). El sistema permite gestionar una tienda online con control de usuarios, catálogo de productos (clasificados mediante herencia en productos físicos y digitales), gestión de carritos de compra, procesamiento de pedidos y persistencia de datos.
 
